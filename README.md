@@ -22,10 +22,11 @@
 
 </td></tr></table>
 
+<!--
 ### Language and Tools
-- HTML5, CSS3(Machine Learing Operation - Especially, ML/DL Model Production)
+- HTML5, CSS3
 - JS/jQuery (I also interested in studying F/E develop skills)
-- Operation Research
+ -->
 
 <div align=center>
 

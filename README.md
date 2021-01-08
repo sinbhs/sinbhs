@@ -31,7 +31,7 @@
 
 <div align=center>
 
-[![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sinbhs.github.io/category/#Javascript/)](https://sinbhs.github.io/category/#Javascript) 
+[![Study Blog Badge](http://img.shields.io/badge/-Study%20blog-black?style=flat-square&logo=github&link=https://sinbhs.github.io/category/#Javascript/)](https://sinbhs.github.io/category/#Javascript) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:songjig23@gmail.com)
 </div>
 

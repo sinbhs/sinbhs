@@ -4,13 +4,6 @@
 
 </div>
 
-### Hi there, I'm Jiwoo Song ! 👋
-
-### Web Publisher
-- Hi, I'm Jiwoo Song, a web publisher & designer.
-- I design and code websites. and I love it!
-- If you want to contact me, please leave me a message via e-mail 📫 ! 
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
